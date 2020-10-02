@@ -24,4 +24,5 @@ public class MainActivity extends AppCompatActivity {
         return "This is change ";
 
     }
+    // This a comment to test the git pull mechanism from AS
 }
