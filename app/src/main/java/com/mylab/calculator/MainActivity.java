@@ -25,4 +25,5 @@ public class MainActivity extends AppCompatActivity {
 
     }
     // This a comment to test the git pull mechanism from AS
+    // This is second command there.
 }
